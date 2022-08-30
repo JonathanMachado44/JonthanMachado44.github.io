@@ -4,7 +4,7 @@ type: project
 image: img/Dino.png
 title: "HomeEC"
 date: 2022-05-01
-published: true
+published: false
 labels:
   - Educational Technology
   - App Design
