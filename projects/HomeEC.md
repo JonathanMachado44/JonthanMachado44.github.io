@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: JonthanMachado44.github.io/img/ScreenShot2022-08-29at9.14.05PM.png
+image: img/Dino.png
 title: "HomeEC"
 date: 2022-05-01
 published: true
