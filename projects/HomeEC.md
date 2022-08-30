@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Screen Shot 2022-08-29 at 9.14.05 PM.png
 title: "HomeEC"
 date: 2022-05-01
 published: true
